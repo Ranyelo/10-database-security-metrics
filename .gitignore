@@ -1,0 +1,8 @@
+# TeX/Python ignores
+*.aux
+*.log
+*.out
+*.toc
+*.pyc
+__pycache__/
+.idea/
